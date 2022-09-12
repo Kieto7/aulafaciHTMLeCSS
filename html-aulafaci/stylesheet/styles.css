@@ -1,0 +1,8 @@
+<style>
+    p{ color: #25b72b;
+    }
+    </style>
+
+    <p> esse Texto será verde no estilo em LInha, o procedente ao CSS incluido externamente.</p>
+
+    <p style="color: blue"> o <code> style</code> atribuido pode ser sobrescrever.</p>
